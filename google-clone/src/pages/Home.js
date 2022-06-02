@@ -36,7 +36,7 @@ const Home = () => {
             alt=""
           />{" "}
           <div className="input-container">
-            <Searchbar />
+            <Searchbar hideButtons />
           </div>
         </div>
 
